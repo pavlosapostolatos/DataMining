@@ -2,7 +2,7 @@
 
 these 2 python notebooks are Datamining projects performed on Google Colab implementing Data analysis and Deep Learning with algorithms and tools:
 * numpy 
-* matplotlib
+* matplotli
 * pandas
 * bag of words model iwith unigrams bigrams
 * TF-IDF
