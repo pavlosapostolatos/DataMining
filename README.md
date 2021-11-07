@@ -12,3 +12,5 @@ testing and comparing results on:
 * Gaussian Naive_bayes
 * RandomForestClassifier
 * Support Vector Classification
+
+collaborative assignment for UOA DI with Nikos Passakos. find him [here](https://nikospx.tech/index.php?lang=gr&fbclid=IwAR22O_eE9Sv1KII-IYChhUWEC-k8RRR8Cun5nsugNa-PAstPFMSWDTfnPEQ)
